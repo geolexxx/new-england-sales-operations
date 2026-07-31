@@ -62,6 +62,10 @@ scoring, Salesforce Account upsert, segmented reporting, and dashboarding.
 <details>
 <summary>Additional Salesforce evidence</summary>
 
+#### Dashboard builder layout
+
+![Salesforce dashboard builder layout](assets/screenshots/salesforce_dashboard_builder.png)
+
 #### Completed External ID upsert
 
 ![Salesforce import: 160 processed, 0 failed](assets/screenshots/salesforce_import_160_success.png)
