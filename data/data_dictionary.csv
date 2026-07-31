@@ -1,0 +1,8 @@
+Field,Definition,Source_Type
+External_ID,Stable prospect key derived from the EPA GHGRP Facility ID.,EPA
+Account_Name,Facility-level Salesforce account name with city and state.,Derived
+Parent_Company,Highest-ownership parent reported in the EPA parent-company file.,EPA
+Operational_Scale_Band,Scale proxy based on reported direct emissions; not employee count.,Derived
+Target_Decision_Maker_Role,Role-based outreach target; not a verified individual contact.,Derived
+Lead_Score_Reference,"0-100 score using geography, sector, scale, data quality, and viability.",Derived
+Lead_Priority_Reference,"Top 30 scored accounts are High, ranks 31-80 Medium, remainder Low.",Derived

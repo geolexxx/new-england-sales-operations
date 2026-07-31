@@ -1,0 +1,6 @@
+Dedupe_Action,External_ID,EPA_Facility_ID,Account_Name,Duplicate_Scenario
+Removed from cleaned prospect table using External_ID,GHGRP-1006366,1006366,"  nd paper inc - rumford division - rumford, me  ",Synthetic CRM duplicate with casing/spacing variation
+Removed from cleaned prospect table using External_ID,GHGRP-1000338,1000338,"  toray plastics (america), inc. - north kingstown, ri  ",Synthetic CRM duplicate with casing/spacing variation
+Removed from cleaned prospect table using External_ID,GHGRP-1005254,1005254,"  southbridge recycling & disposal park - southbridge, ma  ",Synthetic CRM duplicate with casing/spacing variation
+Removed from cleaned prospect table using External_ID,GHGRP-1013584,1013584,"  pioneer plastics corporation - auburn, me  ",Synthetic CRM duplicate with casing/spacing variation
+Removed from cleaned prospect table using External_ID,GHGRP-1001307,1001307,"  millennium power - charlton, ma  ",Synthetic CRM duplicate with casing/spacing variation
